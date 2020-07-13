@@ -267,3 +267,13 @@ h5 {
   main {
     flex: 1 0 auto;
   }
+
+  .home-btn {
+    margin: 10px auto;
+    display: block;
+    width: 230px;
+}
+
+.analysts .col {
+    margin-bottom: 20px;
+}
